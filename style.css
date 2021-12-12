@@ -1,0 +1,35 @@
+.container {
+    /* background-color: rgb(255, 255, 255); */
+    border-radius: 9px;
+    border: 2px solid rgb(231, 225, 225);
+    width: 356px;
+    height: 200px;
+    background-color: #e43333;
+}
+
+.logo-icici {
+    width: 119px;
+    height: 35px;
+    margin-left: 10px;
+    margin-top: 4px;
+    background-color: rgb(255, 255, 255);
+} 
+
+.card-type {
+    font-family: monospace;
+    margin-left:64px;
+    color:rgb(255, 255, 255)
+}
+
+.chip {
+    width: 117px;
+    height: 97px;
+}
+
+.wifi {
+    width: 14px;
+    height: 17px;
+    margin-left: 158px;
+    margin-top: 28px;
+    /* color:rgb(255, 255, 255) */
+}
